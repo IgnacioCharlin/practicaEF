@@ -1,0 +1,34 @@
+﻿@model List<Servicio.DB.Jugador>
+
+<form action="/Futbol/Agregar" method="post">
+    <div>
+        Nombre:
+        <input type="text" name="Nombre" />
+    </div>
+    <div>
+        Apellido:
+        <input type="text" name="Apellido" />
+    </div>
+    <div>
+        Peso:
+        <input type="number" name="Peso" />
+    </div>
+    <div>
+        Edad:
+        <input type="number" name="Edad" />
+    </div>
+    <div>
+         
+        Equipo:
+        <select name="IdEquipo">
+            <option value="">Equipo</option>
+            @foreach (var equipo in ViewBag.equipos)
+            {
+                <option value="@equipo.IdEquipo">@equipo.Nombre</option>
+            }
+        </select>
+    </div>
+    <div>
+        <input type="submit" value="Guardar" />
+    </div>
+</form>

@@ -1,0 +1,15 @@
+C:\Users\icharlin\OneDrive - Banco de Galicia Y Buenos Aires S.A\Desktop\Ejercitacion\practica-futbol\futbol\Servicio\bin\Debug\net5.0\Servicio.deps.json
+C:\Users\icharlin\OneDrive - Banco de Galicia Y Buenos Aires S.A\Desktop\Ejercitacion\practica-futbol\futbol\Servicio\bin\Debug\net5.0\Servicio.runtimeconfig.json
+C:\Users\icharlin\OneDrive - Banco de Galicia Y Buenos Aires S.A\Desktop\Ejercitacion\practica-futbol\futbol\Servicio\bin\Debug\net5.0\Servicio.runtimeconfig.dev.json
+C:\Users\icharlin\OneDrive - Banco de Galicia Y Buenos Aires S.A\Desktop\Ejercitacion\practica-futbol\futbol\Servicio\bin\Debug\net5.0\Servicio.dll
+C:\Users\icharlin\OneDrive - Banco de Galicia Y Buenos Aires S.A\Desktop\Ejercitacion\practica-futbol\futbol\Servicio\bin\Debug\net5.0\Servicio.pdb
+C:\Users\icharlin\OneDrive - Banco de Galicia Y Buenos Aires S.A\Desktop\Ejercitacion\practica-futbol\futbol\Servicio\obj\Debug\net5.0\Servicio.csproj.AssemblyReference.cache
+C:\Users\icharlin\OneDrive - Banco de Galicia Y Buenos Aires S.A\Desktop\Ejercitacion\practica-futbol\futbol\Servicio\obj\Debug\net5.0\Servicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icharlin\OneDrive - Banco de Galicia Y Buenos Aires S.A\Desktop\Ejercitacion\practica-futbol\futbol\Servicio\obj\Debug\net5.0\Servicio.AssemblyInfoInputs.cache
+C:\Users\icharlin\OneDrive - Banco de Galicia Y Buenos Aires S.A\Desktop\Ejercitacion\practica-futbol\futbol\Servicio\obj\Debug\net5.0\Servicio.AssemblyInfo.cs
+C:\Users\icharlin\OneDrive - Banco de Galicia Y Buenos Aires S.A\Desktop\Ejercitacion\practica-futbol\futbol\Servicio\obj\Debug\net5.0\Servicio.csproj.CoreCompileInputs.cache
+C:\Users\icharlin\OneDrive - Banco de Galicia Y Buenos Aires S.A\Desktop\Ejercitacion\practica-futbol\futbol\Servicio\obj\Debug\net5.0\Servicio.dll
+C:\Users\icharlin\OneDrive - Banco de Galicia Y Buenos Aires S.A\Desktop\Ejercitacion\practica-futbol\futbol\Servicio\obj\Debug\net5.0\refint\Servicio.dll
+C:\Users\icharlin\OneDrive - Banco de Galicia Y Buenos Aires S.A\Desktop\Ejercitacion\practica-futbol\futbol\Servicio\obj\Debug\net5.0\Servicio.pdb
+C:\Users\icharlin\OneDrive - Banco de Galicia Y Buenos Aires S.A\Desktop\Ejercitacion\practica-futbol\futbol\Servicio\obj\Debug\net5.0\Servicio.genruntimeconfig.cache
+C:\Users\icharlin\OneDrive - Banco de Galicia Y Buenos Aires S.A\Desktop\Ejercitacion\practica-futbol\futbol\Servicio\obj\Debug\net5.0\ref\Servicio.dll

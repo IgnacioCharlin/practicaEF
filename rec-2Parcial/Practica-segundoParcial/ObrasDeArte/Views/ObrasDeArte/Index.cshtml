@@ -1,0 +1,21 @@
+﻿@model List<BD.DB.ObraDeArte>
+
+<a href="ObrasDeArte/Agregar" class="btn btn-success">Agregar</a>
+<a href="ObrasDeArte/SigloXIX" class="btn btn-success">ObrasDelSigloXIX</a>
+
+<table>
+        <tr>
+            <th>Nombre</th>
+            <th>Año de Creación</th>
+            <th>Eliminar</th>
+        </tr>
+        @foreach (var obraDeArte in Model)
+        {
+            <tr>
+                <td>@obraDeArte.Nombre</td>
+                <td>@obraDeArte.AnioCreacion</td>
+                <td>@Html.ActionLink("Eliminar", "Eliminar", new { Id = obraDeArte.Id },
+                                       new { @class = "btnagre", @name = "Eliminar" })</td>
+            </tr>
+        }
+</table>

@@ -1,0 +1,15 @@
+C:\Users\icharlin\OneDrive - Banco de Galicia Y Buenos Aires S.A\Desktop\Ejercitacion\src\ClasificadorAnimales.Servicio\bin\Debug\net5.0\ClasificadorAnimales.Servicio.deps.json
+C:\Users\icharlin\OneDrive - Banco de Galicia Y Buenos Aires S.A\Desktop\Ejercitacion\src\ClasificadorAnimales.Servicio\bin\Debug\net5.0\ClasificadorAnimales.Servicio.dll
+C:\Users\icharlin\OneDrive - Banco de Galicia Y Buenos Aires S.A\Desktop\Ejercitacion\src\ClasificadorAnimales.Servicio\bin\Debug\net5.0\ClasificadorAnimales.Servicio.pdb
+C:\Users\icharlin\OneDrive - Banco de Galicia Y Buenos Aires S.A\Desktop\Ejercitacion\src\ClasificadorAnimales.Servicio\bin\Debug\net5.0\ClasificadorAnimales.Data.dll
+C:\Users\icharlin\OneDrive - Banco de Galicia Y Buenos Aires S.A\Desktop\Ejercitacion\src\ClasificadorAnimales.Servicio\bin\Debug\net5.0\ClasificadorAnimales.Data.pdb
+C:\Users\icharlin\OneDrive - Banco de Galicia Y Buenos Aires S.A\Desktop\Ejercitacion\src\ClasificadorAnimales.Servicio\obj\Debug\net5.0\ClasificadorAnimales.Servicio.csproj.AssemblyReference.cache
+C:\Users\icharlin\OneDrive - Banco de Galicia Y Buenos Aires S.A\Desktop\Ejercitacion\src\ClasificadorAnimales.Servicio\obj\Debug\net5.0\ClasificadorAnimales.Servicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icharlin\OneDrive - Banco de Galicia Y Buenos Aires S.A\Desktop\Ejercitacion\src\ClasificadorAnimales.Servicio\obj\Debug\net5.0\ClasificadorAnimales.Servicio.AssemblyInfoInputs.cache
+C:\Users\icharlin\OneDrive - Banco de Galicia Y Buenos Aires S.A\Desktop\Ejercitacion\src\ClasificadorAnimales.Servicio\obj\Debug\net5.0\ClasificadorAnimales.Servicio.AssemblyInfo.cs
+C:\Users\icharlin\OneDrive - Banco de Galicia Y Buenos Aires S.A\Desktop\Ejercitacion\src\ClasificadorAnimales.Servicio\obj\Debug\net5.0\ClasificadorAnimales.Servicio.csproj.CoreCompileInputs.cache
+C:\Users\icharlin\OneDrive - Banco de Galicia Y Buenos Aires S.A\Desktop\Ejercitacion\src\ClasificadorAnimales.Servicio\obj\Debug\net5.0\ClasificadorAnimales.Servicio.csproj.CopyComplete
+C:\Users\icharlin\OneDrive - Banco de Galicia Y Buenos Aires S.A\Desktop\Ejercitacion\src\ClasificadorAnimales.Servicio\obj\Debug\net5.0\ClasificadorAnimales.Servicio.dll
+C:\Users\icharlin\OneDrive - Banco de Galicia Y Buenos Aires S.A\Desktop\Ejercitacion\src\ClasificadorAnimales.Servicio\obj\Debug\net5.0\refint\ClasificadorAnimales.Servicio.dll
+C:\Users\icharlin\OneDrive - Banco de Galicia Y Buenos Aires S.A\Desktop\Ejercitacion\src\ClasificadorAnimales.Servicio\obj\Debug\net5.0\ClasificadorAnimales.Servicio.pdb
+C:\Users\icharlin\OneDrive - Banco de Galicia Y Buenos Aires S.A\Desktop\Ejercitacion\src\ClasificadorAnimales.Servicio\obj\Debug\net5.0\ref\ClasificadorAnimales.Servicio.dll

@@ -1,0 +1,38 @@
+﻿@model List<Servicio.DB.Jugador>
+<form action="/Futbol/Filtrar" method="post">
+
+    <div>
+         
+        Equipo:
+        <select name="IdEquipo">
+            <option value="">Equipo</option>
+            @foreach (var equipo in ViewBag.equipos)
+            {
+                <option value="@equipo.IdEquipo">@equipo.Nombre</option>
+            }
+        </select>
+    </div>
+    <input type="submit" name="Filtrar" value="Filtrar" />
+    <table>
+        <tr>
+            <th>Nombre</th>
+            <th>Apellido</th>
+            <th>Edad</th>
+            <th>Peso</th>
+            <th>Equipo</th>
+            <th>Eliminar</th>
+        </tr>
+        @foreach (var jugador in Model)
+        {
+            <tr>
+                <td>@jugador.Nombre</td>
+                <td>@jugador.Apellido</td>
+                <td>@jugador.Edad</td>
+                <td>@jugador.Peso</td>
+                <td>@jugador.IdEquipoNavigation.Nombre</td>
+                <td>@Html.ActionLink("Eliminar", "Eliminar", new { IdJugador = jugador.IdJugador },
+                                       new { @class = "btnagre", @name = "Eliminar" })</td>
+            </tr>
+        }
+    </table>
+</form>

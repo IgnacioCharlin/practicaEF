@@ -1,0 +1,17 @@
+﻿@model List<BD.DB.ObraDeArte>
+
+<a href="/ObrasDeArte/Index" class="btn btn-primary">Volver</a>
+
+<table>
+        <tr>
+            <th>Nombre</th>
+            <th>Año de Creación</th>
+        </tr>
+        @foreach (var obraDeArte in Model)
+        {
+            <tr>
+                <td>@obraDeArte.Nombre</td>
+                <td>@obraDeArte.AnioCreacion</td>
+            </tr>
+        }
+</table>

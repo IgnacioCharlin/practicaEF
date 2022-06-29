@@ -1,0 +1,15 @@
+﻿@model BD.DB.ObraDeArte
+
+<form method="post" action="/ObrasDeArte/Editar">
+    <div>
+        Nombre de la obra: 
+        <input type="text" name="Nombre" value="@Model.Nombre"/>
+    </div>
+    <div>
+        Año de Creación
+        <input type="number" name="AnioCreacion" value="@Model.AnioCreacion"/>
+    </div>
+    <div>
+        <input type="submit" value="Modificar"/>
+    </div>
+</form>

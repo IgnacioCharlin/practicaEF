@@ -1,0 +1,31 @@
+﻿@model ClasificadorAnimales.Data.EF.Animal
+
+   
+    <form action="/Animal/Alta" method="post">
+        <div>
+            Nombre:
+            <input type="text" name="NombreEspecie" />
+        </div>
+        <div>
+            Peso:
+            <input type="number" name="PesoPromedio" />
+        </div>
+        <div>
+            Edad:
+            <input type="number" name="EdadPromedio" />
+        </div>
+        <div>
+            Tipo Animal :
+            <select name="IdTipoAnimal">
+                <option value="">TipoAnimal</option>
+            @foreach(var tipoAnimal in (List<ClasificadorAnimales.Data.EF.TipoAnimal>) ViewBag.TipoAnimal)
+            {
+                <option value="@tipoAnimal.IdTipoAnimal">@tipoAnimal.Nombre</option>
+            }
+        </select>
+        </div>
+        <div>
+            <input type="submit" value="Guardar"/>
+        </div>
+    </form>
+   

@@ -1,0 +1,30 @@
+﻿@model List<ClasificadorAnimales.Data.EF.Animal>
+<form action="/Animal/ListarAnimales" method="post">
+    <partial name="_pvTipoAnimal.cshtml" model="@ViewBag.TipoAnimales" />
+    <input type="submit" name="Filtrar" value="Filtrar" />
+    <table>
+        <tr>
+            <th>Nombre</th>
+            <th>Peso</th>
+            <th>Edad</th>
+            <th>Tipo</th>
+            <th>Eliminar</th>
+            <th>Editar</th>
+        </tr>
+        @foreach (var animal in Model)
+        {
+            <tr>
+                <td>@animal.NombreEspecie</td>
+                <td>@animal.PesoPromedio</td>
+                <td>@animal.EdadPromedio</td>
+                <td>@animal.IdTipoAnimalNavigation.Nombre</td>
+                <td>@Html.ActionLink("Eliminar", "Eliminar", new { IdTipoAnimal = animal.IdAnimal },
+                                       new { @class = "btnagre", @name = "Eliminar" })</td>
+                <td>@Html.ActionLink("Modificar", "Modificar", new { IdAnimal = animal.IdAnimal },
+                                       new { @class = "btnagre", @name = "Eliminar" })</td>
+            </tr>
+
+        }
+    </table>
+
+</form>
